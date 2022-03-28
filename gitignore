@@ -49,3 +49,4 @@ wp-content/themes/origin-theme/node_modules/
 #
 .DS_Store
 yarn.lock
+*mysql*
